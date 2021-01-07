@@ -1,0 +1,140 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    
+
+}
+h1{
+    font-size: 40px;
+}
+.rahim{
+    color: #FF8367;
+    
+}
+p{
+    color: dimgray;
+}
+.link-button{
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(180deg, lightsalmon, tomato);
+    padding: 15px 30px;
+    border-radius: 10px;
+    border-color: none;
+
+}
+.half{
+    width: 40%;
+    margin-left: 5%;
+    float: left;
+    padding-left: 2%;
+    height: 500px;
+}
+.half img{
+    width: 100%;
+}
+.top-part{
+    height: 700px;
+ 
+    
+}
+ .second-part{
+    height: 500px;
+    margin-bottom: 50px;
+    
+    
+}
+.third-part{
+    background-color: #F7F8FB;
+    height: 500px;
+    padding-top: 70px;
+    padding-bottom: 70px;
+    width: 100%;
+}
+
+.head2 h2{
+    display: block;
+    text-align: center;
+    padding-bottom: 50px;
+    font-weight: 900;
+}
+.latest{
+    color: #F46060;
+    
+}
+.working{
+    color:#363959 ;
+
+}
+.image-project{
+    margin: auto;
+}
+.project{
+    text-align: center;
+    height: 300px;
+    width: 300px;
+    float: left;
+    background-color: #fff;
+    
+    padding-bottom: 40px;
+    margin-right: 20px;
+    
+    border-radius: 10px;
+    box-shadow: 5px 5px 20px gray;
+}
+.project img{
+    height: 200px;
+    width: 300px;
+    text-align: center;
+}
+.project p{
+    font-size: 12px;
+}
+.project1{
+    margin-left: 200px;
+}
+.project h4{
+    color:#363959;
+    font-weight: bold;
+}
+.blue-banner img{
+    text-align: center;
+}
+.blue-banner h2{
+    display: inline;
+    margin-top: 200px;
+}
+.div-blue-banner{
+    background-image: url(images/group.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 150px;
+    width: 1000px;
+    margin-left: 350px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.div-blue-banner-h2{
+   
+    padding-right: 200px;
+    display: block;
+    float: left;    
+    color: white;
+}
+.div-blue{
+    padding-top: 60px;
+    margin-left: 40px;
+}
+.last-part-h4 h4{
+    text-align: center;
+}
+.last-part-gmail h3{
+    text-align: center;
+}
+.last-part-icon{
+    text-align: center;
+}
+.last-part-icon img{
+    height: 50px;
+    width: 50px;
+}
